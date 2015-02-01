@@ -1,0 +1,14 @@
+{
+  "name": "att-park-geojson",
+  "version": "1.0.0",
+  "description": "ATT Park GeoJson",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "npm",
+    "geojson"
+  ],
+  "author": "Jiangyue Zhu <zhujy8833@gmail.com>",
+  "license": "ISC"
+}
